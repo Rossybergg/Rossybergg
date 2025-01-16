@@ -28,5 +28,9 @@ Here are some of the technologies I work with:
 - Couchbase
 - MongoDB
 - OracleDB
+- Docker
+- Azure
+- Jest
+- Junit
 
 Feel free to connect with me on GitHub or follow me on Twitter. Let's build something amazing together!
